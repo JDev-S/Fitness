@@ -68,43 +68,28 @@
 	<div class="wrapper">
     	<div class="inner-wrapper">
         	<!-- header-wrapper starts here -->
+             <div id="logo">
+                     <a title="Travel" href="index.html"><img title="Fitness" alt="Fitness" src="images/logo.jpg" width="200px" height="200px"></a>
+            </div>
         	<div id="header-wrapper">
-            	<header id="header" class="header1">
-                    <!-- Top bar starts here -->
-                    <div class="top-bar">
-                        <div class="container">
-                            <div class="dt-sc-contact-info">
-                                <p><i class="fa fa-phone"></i>Any Questions? Call Us: <span>1-223-355-2214</span></p>
-                            </div>
-                            <div class="top-right">
-                                <ul>
-                                    <li><a title="Login" href="login.html"><span class="fa fa-sign-in"></span>Member Login</a></li>
-                                    <li><a title="Register Now" href="register.html"><span class="fa fa-user"></span> Register </a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Top bar ends here -->
+            	<header id="header" class="header4">
                     <div class="main-menu-container">
                     	<div class="main-menu">
-                            <div id="logo">
-                                <a title="Travel" href="index.html"><img title="Fitness" alt="Fitness" src="/images/logo.png"></a>
-                            </div>
                             <div id="primary-menu">
                                 <div class="dt-menu-toggle" id="dt-menu-toggle">Menu<span class="dt-menu-toggle-icon"></span></div>
                                 <nav id="main-menu">
                                     <ul id="menu-main-menu" class="menu">
-                                        <li class="current_page_item menu-item-simple-parent menu-item-depth-0"><a href="index.html">Home</a>
+                                        <li class="menu-item-simple-parent menu-item-depth-0 current_page_item"><a href="index.html"> <i class="fa fa-home"></i> Home</a>
                                             <ul class="sub-menu">
                                                 <li><a href="indexv2.html">Home 2</a></li>
-                                                <li class="current_page_item"><a href="indexv3.html">Home 3</a></li>
+                                                <li><a href="indexv3.html">Home 3</a></li>
                                                 <li><a href="indexv4.html">Home 4</a></li>
                                                 <li><a href="indexv5.html">Home 5</a></li>
-                                                <li><a href="header1.html">Headers</a>
+                                                <li class="current_page_item"><a href="header1.html">Headers</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="header1.html">Header 1</a></li>
                                                         <li><a href="header2.html">Header 2</a></li>
-                                                        <li><a href="header3.html">Header 3</a></li>
+                                                        <li class="current_page_item"><a href="header3.html">Header 3</a></li>
                                                         <li><a href="header4.html">Header 4</a></li>
                                                         <li><a href="header5.html">Header 5</a></li>
                                                     </ul>
@@ -116,7 +101,7 @@
                                             </ul>
                                             <a class="dt-menu-expand">+</a>
                                         </li>
-                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"> <a href="about.html">About</a>
+                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"><a href="about.html"><i class="fa fa-user"></i> About</a>
                                             <div class="megamenu-child-container">
                                                 <ul class="sub-menu">
                                                     <li class="menu-item-fullwidth fill-four-columns">
@@ -125,7 +110,7 @@
                                                                 <li class="widget">
                                                                     <div class="dt-sc-programs">
                                                                         <div class="dt-sc-pro-thumb">
-                                                                            <a href="package-detail.html"><img src="/images/event1.jpg" alt="" title=""></a>
+                                                                            <a href="package-detail.html"><img src="images/event1.jpg" alt="" title=""></a>
                                                                             <div class="programs-overlay">
                                                                                 <div class="dt-sc-pro-title">
                                                                                     <h3>Muscle Build Pro</h3>
@@ -146,7 +131,7 @@
                                                                 <li class="widget">
                                                                     <div class="dt-sc-programs">
                                                                         <div class="dt-sc-pro-thumb">
-                                                                            <a href="package-detail.html"><img src="/images/event3.jpg" alt="" title=""></a>
+                                                                            <a href="package-detail.html"><img src="images/event3.jpg" alt="" title=""></a>
                                                                             <div class="programs-overlay">
                                                                                 <div class="dt-sc-pro-title">
                                                                                     <h3>Muscle Build Pro</h3>
@@ -167,7 +152,7 @@
                                                                 <li class="widget">
                                                                     <div class="dt-sc-programs">
                                                                         <div class="dt-sc-pro-thumb">
-                                                                            <a href="package-detail.html"><img src="/images/event2.jpg" alt="" title=""></a>
+                                                                            <a href="package-detail.html"><img src="images/event2.jpg" alt="" title=""></a>
                                                                             <div class="programs-overlay">
                                                                                 <div class="dt-sc-pro-title">
                                                                                     <h3>Muscle Build Pro</h3>
@@ -188,7 +173,7 @@
                                                                 <li class="widget">
                                                                     <div class="dt-sc-programs">
                                                                         <div class="dt-sc-pro-thumb">
-                                                                            <a href="package-detail.html"><img src="/images/event4.jpg" alt="" title=""></a>
+                                                                            <a href="package-detail.html"><img src="images/event4.jpg" alt="" title=""></a>
                                                                             <div class="programs-overlay">
                                                                                 <div class="dt-sc-pro-title">
                                                                                     <h3>Muscle Build Pro</h3>
@@ -262,7 +247,7 @@
                                                                             </div>
                                                                             <div class="entry-thumb">
                                                                                 <a href="blog-detail.html">
-                                                                                    <img title="" alt="" src="/images/blog1.jpg">
+                                                                                    <img title="" alt="" src="images/blog1.jpg">
                                                                                     <div class="blog-overlay"><span class="image-overlay-inside"></span></div>
                                                                                 </a>
                                                                                 <div class="entry-meta">
@@ -293,7 +278,7 @@
                                                                                     <q> By injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </q>
                                                                                 </blockquote>
                                                                                 <div class="author">
-                                                                                    <img title="John Doe" alt="John Doe" src="/images/team5.jpg">
+                                                                                    <img title="John Doe" alt="John Doe" src="images/team5.jpg">
                                                                                 </div>
                                                                                 <cite>
                                                                                     <a href="#">Jeniffer Aniston</a>
@@ -310,14 +295,14 @@
                                             </div>
                                             <a class="dt-menu-expand">+</a>
                                         </li>
-                                        <li class="menu-item-simple-parent menu-item-depth-0"><a href="packages.html">Our Packages </a>
+                                        <li class="menu-item-simple-parent menu-item-depth-0"><a href="packages.html"><i class="fa fa-cubes"></i> Our Packages</a>
                                             <ul class="sub-menu">
                                                 <li><a href="package-detail.html">Package Detail</a></li>
                                                 <li><a href="workouts-detail.html">Workouts Detail</a></li>
                                             </ul>
                                             <a class="dt-menu-expand">+</a>
                                         </li>
-                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"> <a href="shortcodes.html" title=""> pages </a>
+                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"> <a href="shortcodes.html"> <i class="fa fa-gift"></i> pages </a>
                                             <div class="megamenu-child-container">
                                                 <ul class="sub-menu">
                                                     <li> 
@@ -369,9 +354,12 @@
                                                         <a class="dt-menu-expand">+</a>
                                                     </li>
                                                     <li class="fulwidth-image-link menu-item-fullwidth">
+                                                        <div class="widgettitle">
+                                                              <a href="">Fullwidth image</a>
+                                                        </div>
                                                         <ul class="sub-menu">
                                                             <li><span class="nolink-menu"></span>
-                                                                <div class="dt-megamenu-custom-content"><img src="/images/mega-menu-img.png" alt="" title=""></div>
+                                                                <div class="dt-megamenu-custom-content"><img src="images/mega-menu-img.png" alt="" title=""></div>
                                                             </li>
                                                         </ul>
                                                     </li>
@@ -379,7 +367,7 @@
                                             </div>
                                             <a class="dt-menu-expand">+</a>
                                         </li>
-                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"> <a href="blog-ii-col-without-sidebar.html" title="">Blog</a>
+                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"> <a href="blog-ii-col-without-sidebar.html" title=""> <i class="fa fa-pencil"></i> Blog </a>
                                             <div class="megamenu-child-container">
                                                 <ul class="sub-menu">
                                                     <li>
@@ -434,7 +422,7 @@
                                             </div>
                                             <a class="dt-menu-expand">+</a>
                                         </li>
-                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"> <a href="gallery-iii-col-without-sidebar.html" title=""> Gallery </a>
+                                        <li class="menu-item-megamenu-parent  megamenu-4-columns-group menu-item-depth-0"><a href="gallery-two-col.html"> <i class="fa fa-camera"></i> Gallery</a>
                                             <div class="megamenu-child-container">
                                                 <ul class="sub-menu">
                                                     <li>
@@ -477,13 +465,13 @@
                                                         <a class="dt-menu-expand">+</a>
                                                     </li>
                                                     <li>
-                                                        <img src="/images/menu-img.png" alt="" title="">
+                                                        <img src="images/menu-img.png" alt="" title="">
                                                     </li>
                                                 </ul>
                                             </div>
                                             <a class="dt-menu-expand">+</a>
                                         </li>
-                                        <li class="menu-item-simple-parent menu-item-depth-0"><a href="contact.html">Contact</a>
+                                        <li class="menu-item-simple-parent menu-item-depth-0"><a href="contact.html"> <i class="fa fa-envelope"></i> Contact</a>
                                             <ul class="sub-menu">
                                                 <li><a href="contact.html">Layout 1</a></li>
                                                 <li><a href="contact2.html">Layout 2</a></li>
@@ -496,8 +484,7 @@
                         </div>
                     </div>
 				</header>
-			</div>
-            <!-- header-wrapper ends here -->
+			</div>            <!-- header-wrapper ends here -->
             <div id="main">
                <!-- **Slider Section** -->
                 <div id="slider">
